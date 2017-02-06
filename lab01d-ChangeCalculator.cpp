@@ -16,7 +16,7 @@ int main() {
 	if (due > received) {
 		cout << "Please pay full amount." << endl;
 	} else if (received == due) {
-		cout << "No change is need, thank you bye bye." << endl;
+		cout << "No change is needed, thank you bye bye." << endl;
 	} else if (received > due) {
 		totalChange = received - due;
 		cout << "Your total change is $" << totalChange << "."<< endl;
