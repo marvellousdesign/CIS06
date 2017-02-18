@@ -74,7 +74,7 @@ Income of $ 30,000.00 has a 0% tax, and you are not taxed for the first $ 30000.
 Income of $ 30,000.01 to $ 50,000 has a 10% tax, you are taxed 2000 from $ 20000.
 Income of $ 50,000.01 to $ 100,000 has a 20% tax, you are taxed 10000 from $ 50000.
 Income of $ 100,000.01 to $ 200,000 has a 30% tax, you are taxed 30000 from $ 100000.
-Income of $ 200,000.01 to $ 250,000 has a 35% tax, you are taxed 87500 from $ 50000.
+Income of $ 200,000.01 to $ 250,000 has a 35% tax, you are taxed 17500 from $ 50000.
 Income of $ 250,000.01 has a 40% tax, you are taxed 20000 from $ 50000.
 Press any key to continue . . .
 */
