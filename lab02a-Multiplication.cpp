@@ -11,12 +11,10 @@ int main() {
 	if (num1 > num2) {
 		max = num1;
 		min = num2;
-	}
-	else {
+	} else {
 		max = num2;
 		min = num1;
-	}
-	for (int i = 0; i < min; i++) {
+	} for (int i = 0; i < min; i++) {
 		cout << sum << " + " << max << " = ";
 		sum = sum + max;
 		cout << sum << endl;
