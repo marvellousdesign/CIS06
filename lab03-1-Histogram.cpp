@@ -1,4 +1,3 @@
-// Mary Luong - CIS 6 - Lab 3, 1 - Histogram
 #include <iostream>
 #include <cstdlib>
 #include <iomanip>

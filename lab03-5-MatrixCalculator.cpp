@@ -1,4 +1,3 @@
-// Mary Luong - CIS 6 - Lab 3, 5 - Matrix Calculator
 #include <iostream>
 #include <string>
 using namespace std;

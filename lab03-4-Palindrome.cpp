@@ -1,4 +1,3 @@
-// Mary Luong - CIS 6 - Lab 3, 4 - Palindrome
 #include <iostream>
 #include <string>
 using namespace std;

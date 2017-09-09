@@ -1,4 +1,3 @@
-// Mary Luong - CIS 6 - Lab 3, 7 - Reverse
 #include <iostream>
 using namespace std;
 

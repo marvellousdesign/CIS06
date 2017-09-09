@@ -1,4 +1,3 @@
-// Mary Luong - CIS 6 - Lab 3, 8 - Name Sort
 #include <iostream>
 #include <string>
 using namespace std;

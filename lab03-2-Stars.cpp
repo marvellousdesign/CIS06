@@ -1,4 +1,3 @@
-// Mary Luong - CIS 6 - Lab 3, 2 - Stars
 #include <iostream>
 using namespace std;
 

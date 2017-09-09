@@ -1,4 +1,3 @@
-// Mary Luong - CIS 6 - Lab 3, 9 - Get Date
 #include <iostream>
 #include <string>
 using namespace std;

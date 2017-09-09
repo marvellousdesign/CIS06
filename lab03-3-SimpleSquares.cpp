@@ -1,4 +1,3 @@
-﻿// Mary Luong - CIS 6 - Lab 3, 3 - Simple Squares 
 #include <iostream>
 #include <cmath>
 #include <iomanip>

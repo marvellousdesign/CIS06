@@ -1,4 +1,3 @@
-// Mary Luong - CIS 6 - Lab 3, 10 - Resize Array
 #include <iostream>
 using namespace std;
 

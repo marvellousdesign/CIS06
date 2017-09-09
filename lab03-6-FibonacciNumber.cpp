@@ -1,4 +1,3 @@
-// Mary Luong - CIS 6 - Lab 3, 6 - Fibonacci Number
 #include <iostream>
 using namespace std;
 
